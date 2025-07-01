@@ -17,7 +17,7 @@ It calculates the most efficient path to complete objectives based on user input
 Step 1: Clone this repo.
 ```bash
 git clone https://github.com/briannafs/CS460Project.git
-cd CS460Project
+cd CS460Project ```
 
 Step 2: Open project in preferred IDE and set SDK/JDK to Java 22. 
 
