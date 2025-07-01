@@ -27,7 +27,7 @@ Step 3: Open and run the `DynamicPriorityRouting.java` in the src/ folder.
 - You will then be prompted to input 1 value per edge/travel cost. 
 
 ## Sample Usage
-
+```
 Objective 1 (Node A): 7 2 3  
 Objective 2 (Node B): 4 3 1  
 Objective 3 (Node C): 3 3 2  
@@ -40,7 +40,7 @@ Edge from A to Goal: 6
 Edge from C to Goal: 3  
 
 Expected Result: Start -> B -> C -> Goal
-
+```
 ## Project Structure
 CS460Project/  
 ├── src/  
