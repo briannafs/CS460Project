@@ -40,7 +40,7 @@ Edge from C to Goal: 3
 
 Expected Result: Start -> B -> C -> Goal
 
-### Project Structure
+## Project Structure
 CS460Project/
 ├── src/
 │   └── DynamicPriorityRouting.java   # Main algorithm implementation
